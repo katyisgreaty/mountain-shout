@@ -1,4 +1,4 @@
-# pet-website
+# Mountain Shout
 
 #### By _**Katy Daviscourt and Minh Phuong,** 1.11.17_
 
