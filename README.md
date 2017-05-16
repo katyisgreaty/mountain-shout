@@ -1,6 +1,6 @@
 # pet-website
 
-#### By _**Katy Daviscourt and Minh Phuong,** 1.10.17_
+#### By _**Katy Daviscourt and Minh Phuong,** 1.11.17_
 
 ## Description
 
